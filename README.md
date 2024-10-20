@@ -1,8 +1,9 @@
-# ena-rust
+# ena-rust-crate
 
 - a rustlang command line application to access ena and download files asynchronously.
 - made for high performance computing where you can put the project numbers and links will be ready.
-- just specify the project number and your files will be ready. 
+- just specify the project number and your files will be ready.
+- the crate is available from crates.io at the following [ena-rust-crate](https://crates.io/crates/rust-ena)
 ```
 cargo install --path . 
 or 
