@@ -2,6 +2,11 @@
 name = "rust-ena"
 version = "0.1.0"
 edition = "2021"
+readme = "README.md"
+licesence = "LICENSE"
+description = "ena-crate interacts directly with the European Nucleotide Archive(ENA)"
+homepage = "https://github.com/codecreatede/ena-rust"
+repository = "https://github.com/codecreatede/ena-rust"
 
 [dependencies]
 clap = { version = "4.5.20", features = ["derive"] }
