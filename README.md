@@ -2,6 +2,7 @@
 
 - a rustlang command line application to access ena and download files asynchronously.
 - made for high performance computing where you can put the project numbers and links will be ready.
+- just specify the project number and your files will be ready. 
 ```
 cargo install --path . 
 or 
