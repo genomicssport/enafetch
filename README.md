@@ -8,7 +8,7 @@ or
 cargo build 
 
 ╭─gauavsablok@gauravsablok ~/Desktop/rust/ena-rust on main ✘
-╰$ ./target/release/rust-ena PRJEB55354
+╰$ ./target/release/rust-ena PRJEB55343
 ```
 
 Gaurav Sablok
