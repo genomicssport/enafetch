@@ -4,6 +4,7 @@
 - made for high performance computing where you can put the project numbers and links will be ready.
 - just specify the project number and your files will be ready.
 - the crate is available from crates.io at the following [ena-rust-crate](https://crates.io/crates/rust-ena)
+- please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 ```
 cargo install --path . 
 or 
