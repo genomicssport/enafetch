@@ -1,10 +1,15 @@
-# ena-rust-crate
+# enafetch
 
-- a rustlang command line application to access ena and download files asynchronously.
+<img src="https://github.com/IBCHgenomic/enafetch/blob/main/enafetch.png" width="350" />
+
+![](https://github.com/IBCHgenomic/eVaiutilities/blob/main/logo.png)
+
+
+
+- access ena and download files asynchronously.
 - made for high performance computing where you can put the project numbers and links will be ready.
 - just specify the project number and your files will be ready.
-- the crate is available from crates.io at the following [ena-rust-crate](https://crates.io/crates/rust-ena)
-- please see the last commit message and if it says compiled binary then it is completed or else still in development version.
+
 ```
 cargo install --path . 
 or 
@@ -20,4 +25,4 @@ wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR100/064/ERR10077564/ERR10077564.fastq.gz
 
 ```
 
-Gaurav Sablok
+Gaurav Sablok Instytut Chemii Bioorganicznej Polskiej Akademii Nauk ul. Noskowskiego 12/14 | 61-704, Poznań Poland
