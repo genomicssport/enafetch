@@ -1,14 +1,16 @@
 [package]
 name = "rust-ena"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 readme = "README.md"
-licesence = "LICENSE"
+license = "MIT"
 description = "ena-crate interacts directly with the European Nucleotide Archive(ENA)"
-homepage = "https://github.com/codecreatede/ena-rust"
-repository = "https://github.com/codecreatede/ena-rust"
+homepage = "https://github.com/genomicssport/ena-rust"
+repository = "https://github.com/genomicssport/ena-rust"
 
 [dependencies]
 clap = { version = "4.5.20", features = ["derive"] }
 cmd_lib = "1.9.5"
+figlet-rs = "0.1.5"
 regex = "1.11.0"
+tokio = { version = "1.47.1", features = ["full"] }

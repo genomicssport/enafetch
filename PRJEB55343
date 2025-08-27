@@ -1,3 +1,0 @@
-run_accession	sample_accession	experiment_accession	study_accession	tax_id	scientific_name	fastq_ftp	submitted_ftp	sra_ftp	bam_ftp
-ERR10084071	SAMEA10978858	ERX9624237	PRJEB55342	1666458	Apomyelois bistriatella	ftp.sra.ebi.ac.uk/vol1/fastq/ERR100/071/ERR10084071/ERR10084071_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR100/071/ERR10084071/ERR10084071_2.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR100/ERR10084071/44748_3#5.cram		
-ERR10077564	SAMEA10978858	ERX9617164	PRJEB55342	1666458	Apomyelois bistriatella	ftp.sra.ebi.ac.uk/vol1/fastq/ERR100/064/ERR10077564/ERR10077564.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR100/ERR10077564/m64229e_220805_130152.ccs.bc1016_BAK8B_OA--bc1016_BAK8B_OA.bam		
